@@ -1,0 +1,6 @@
+a=(1,23,23,345,3456,"Dheeraj",True)
+print(type(a))
+b=a.count(23)
+print(b)
+c=a.index(23)
+print(c)
